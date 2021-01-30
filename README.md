@@ -36,7 +36,7 @@ npm run build
 - [Babel](https://babeljs.io/)
 - [Sass](https://sass-lang.com/)
 - [Eslint](https://eslint.org/)
-- [Husky](https://github.com/typicode/husky) ( tks [@rubinj30](https://github.com/rubinj30) )
+- [Husky](https://github.com/typicode/husky)
 
 ## Dependencies
 
